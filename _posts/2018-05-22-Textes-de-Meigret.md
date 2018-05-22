@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Textes de Meigret"
-author: "Chester"
+date: 2018-05-22
+author: "Hong"
 ---
 # Textes de Meigret
 
@@ -14,8 +15,6 @@ La préface au Menteur (1548 = Le męnteur, ou l’inCREDVLE DE LVCIAN TRAduit d
 — pdf sur [Google Livre](https://books.google.fr/books?id=XsgYg2W4ZaEC). Une numérisation sur le site Virga (O. Bettens).
 
 La Grammaire (1550 = Le trętté de la GRAMMĘRE FRANC̨OĘze, fȩt par Louís Meigrȩt Líonoȩs, [publié] Chés Chreſtian Wechel)
-— pdf sur Gallica. Deux éditions numériques de la Grammaire sont mise en ligne et en accès libre, sur le site CTLF Textes, et sur le site Virga. 
+— pdf sur [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8624665r). Deux éditions numériques de la Grammaire sont mise en ligne et en accès libre, sur le site [CTLF Textes](http://ctlf.ens-lyon.fr/t_resul.asp?aut=287&nom=Meigret&prenom=Luis), et sur le site [Virga](https://virga.org/phon16/index.php?item=6). 
 
-[note] Sur le site Classiques Garnier Numérique en accès limité, on trouvera la reprise du texte modernisé par Hausmann en 1980. Le site Virga fournit encore 3 textes polémiques autour de la réforme de l’écriture : Defęnses contre Glaumalis du Vezelet (1550), Reponse à Iáqes Pelletier (1550), Reponse à Gylłaome dęs Aotels (1551).
-
-[Google Livre](https://books.google.fr/books?id=XsgYg2W4ZaEC)
+[note] Sur le site [Classiques Garnier Numérique](https://www.classiques-garnier.com/numerique-bases/) en accès limité, on trouvera la reprise du texte modernisé par Hausmann en 1980. Le site Virga fournit encore 3 textes polémiques autour de la réforme de l’écriture : Defęnses contre Glaumalis du Vezelet (1550), Reponse à Iáqes Pelletier (1550), Reponse à Gylłaome dęs Aotels (1551).
