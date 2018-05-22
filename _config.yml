@@ -1,7 +1,7 @@
 # Site settings
 title:          Transcription typémique sur l’écriture de L. Meigret (1500-1558)
 description:    "Pour une philologie progressive des textes grammaticaux et orthographistes de Louis Meigret (1500 ca -1558 ca)"
-baseurl:        "/tale"
+
 url:            "https://github.com/xinyucindy/tale"
 
 # Author
