@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Transcription typémique sur l’écriture de L. Meigret (1500-1558)
+description:    "Pour une philologie progressive des textes grammaticaux et orthographistes de Louis Meigret (1500 ca -1558 ca)"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://github.com/xinyucindy/tale"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Cindy YU
+  url:          néant
+  email:        xinyu.cindy25@gmail.com
 
 # Build settings
 markdown:       kramdown
